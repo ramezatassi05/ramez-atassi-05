@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 About me<br>I am a second-year computer science at McGill University, with a strong interest in coding, machine learning/artificial intelligence, and building advanced applications<br><br>💬 I'm currently working on<br>- My advanced personal coding portfolio<br>- AI spam email detector<br>
+🔭 About me<br>I am a second-year computer science student at McGill University, with a strong interest in coding, machine learning/artificial intelligence, and building advanced applications<br><br>💬 I'm currently working on<br>- My advanced personal coding portfolio<br>- AI spam email detector<br>
 
 
 ## 🌐 Socials:
